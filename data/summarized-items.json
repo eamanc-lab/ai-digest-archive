@@ -1,0 +1,524 @@
+{
+  "summarizedAt": "2026-03-17T00:54:46Z",
+  "totalItems": 20,
+  "smartPickCount": 10,
+  "twitterTop50": [],
+  "podcastTop5": [],
+  "blogTop5": [
+    {
+      "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+      "titleZh": "Taalas 以每秒 17,000 tokens 速度运行 Llama 3.1 8B",
+      "link": "",
+      "source": "Simon Willison",
+      "categoryId": "ai-developers",
+      "categoryName": "知名 AI 个人开发者/研究者",
+      "pubDate": "2026-02-21",
+      "summary": "Taalas 发布定制芯片产品，可以每秒 17,000 tokens 的速度本地运行 Llama 3.1 8B 模型，为本地 LLM 推理提供高性能硬件加速方案。相比云端 API，这一方案在延迟和成本方面具有潜在优势，值得关注其在边缘推理场景的实际表现。",
+      "isSmartPick": true,
+      "smartPickRank": 1,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 5,
+        "contentValue": 4,
+        "actionability": 3,
+        "total": 4.45
+      },
+      "scoreReason": "Simon Willison 为高权重信息源额外+0.3，本地 LLM 推理加速硬件新品（应用相关性4分），内容价值高为新产品首发（4分），值得短期关注评测（3分）。"
+    },
+    {
+      "title": "AI Safety Meets the War Machine",
+      "titleZh": "AI 安全遭遇军工产业",
+      "link": "",
+      "source": "Wired AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "Wired 深度调查 Anthropic 坚守不允许 AI 用于自主武器或政府监控的底线，这一立场使其面临错失军方大型合同的风险。文章探讨 AI 安全理念与商业利益的根本冲突，揭示 Anthropic 在行业竞争中的差异化路径。对理解 AI 公司的安全承诺与商业压力之间的博弈具有重要参考价值。",
+      "isSmartPick": true,
+      "smartPickRank": 3,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 4,
+        "contentValue": 3,
+        "actionability": 2,
+        "total": 3.15
+      },
+      "scoreReason": "Wired 深度原创报道（质量4分），Anthropic 安全立场与商业冲突的行业洞察（内容价值3分），AI 相关但非核心开发工具（相关性3分），对开发者直接指导意义有限（2分）。"
+    },
+    {
+      "title": "OpenAI's first ChatGPT gadget could be a smart speaker with a camera",
+      "titleZh": "OpenAI 首款 ChatGPT 硬件或为带摄像头智能音箱",
+      "link": "",
+      "source": "The Verge AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "据 The Verge 报道，OpenAI 首款硬件产品将是带摄像头的智能音箱，预计售价 200-300 美元，具备物品识别和环境感知能力。这是 OpenAI 向消费硬件市场迈进的重要一步，将与 Amazon Echo 等产品直接竞争。",
+      "isSmartPick": true,
+      "smartPickRank": 4,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 3,
+        "contentValue": 3,
+        "actionability": 2,
+        "total": 3.15
+      },
+      "scoreReason": "OpenAI 硬件方向有 AI 应用参考价值（相关性3分），The Verge 独立媒体原创报道（质量3分），产品功能首次披露具一定内容价值（3分），距上市尚早（2分）。"
+    },
+    {
+      "title": "Adding TILs, releases, museums, tools and research",
+      "titleZh": "新增 TIL、版本发布、博物馆、工具与研究功能",
+      "link": "",
+      "source": "Simon Willison",
+      "categoryId": "ai-developers",
+      "categoryName": "知名 AI 个人开发者/研究者",
+      "pubDate": "2026-02-21",
+      "summary": "Simon Willison 为其个人网站新增 beats 功能模块，统一整合 TIL（今日所学）、版本发布、工具笔记和研究内容。这一架构升级让其 AI 工具探索的完整足迹更加系统化，是个人知识管理的有趣实践案例。",
+      "isSmartPick": true,
+      "smartPickRank": 5,
+      "scores": {
+        "relevance": 1,
+        "sourceQuality": 5,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.75
+      },
+      "scoreReason": "Simon Willison 为高权重信息源额外+0.3，但本次更新内容为个人网站功能迭代而非 AI 工具（应用相关性2分），内容价值较低（2分），对开发者可操作性有限（1分）。"
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super-pac",
+      "titleZh": "Anthropic 支持的团体力挺遭 AI 超级 PAC 攻击的候选人",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "Anthropic 支持的政治行动委员会为纽约国会候选人背书，该候选人主张 AI 开发者须强制披露安全协议，与另一亲 AI 超级 PAC 形成对立，展现 AI 公司介入政策博弈的新动向。",
+      "isSmartPick": true,
+      "smartPickRank": 6,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.75
+      },
+      "scoreReason": "Anthropic 相关政治动向（相关性2分），TechCrunch 独立媒体原创报道（质量3分），AI 政策新闻有一定行业参考价值（2分），对开发者可操作性极低（1分）。"
+    }
+  ],
+  "ycTop": [
+    {
+      "title": "What Boris Cherny Learned From Building Claude Code",
+      "titleZh": "Boris Cherny 构建 Claude Code 的心得体会",
+      "link": "",
+      "source": "Y Combinator",
+      "categoryId": "yc",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Y Combinator 发布 Claude Code 核心构建者 Boris Cherny 的访谈，分享开发 AI 编程助手过程中的一手设计洞察。内容涵盖 Claude Code 的架构决策、用户体验取舍以及未来规划，是了解这一核心工具设计思路的绝佳资料。对日常使用 Claude Code 的开发者价值极高。",
+      "isSmartPick": true,
+      "smartPickRank": 2,
+      "scores": {
+        "relevance": 5,
+        "sourceQuality": 4,
+        "contentValue": 4,
+        "actionability": 4,
+        "total": 4.3
+      },
+      "scoreReason": "Claude Code 为用户核心工具链（应用相关性5分），Y Combinator 官方渠道发布（质量4分），构建者一手经验分享具高内容价值（4分），设计洞察可直接指导使用（4分）。"
+    }
+  ],
+  "a16zTop": [],
+  "items": [
+    {
+      "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+      "titleZh": "Taalas 以每秒 17,000 tokens 速度运行 Llama 3.1 8B",
+      "link": "",
+      "source": "Simon Willison",
+      "categoryId": "ai-developers",
+      "categoryName": "知名 AI 个人开发者/研究者",
+      "pubDate": "2026-02-21",
+      "summary": "Taalas 发布定制芯片产品，可以每秒 17,000 tokens 的速度本地运行 Llama 3.1 8B 模型，为本地 LLM 推理提供高性能硬件加速方案。相比云端 API，这一方案在延迟和成本方面具有潜在优势，值得关注其在边缘推理场景的实际表现。",
+      "isSmartPick": true,
+      "smartPickRank": 1,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 5,
+        "contentValue": 4,
+        "actionability": 3,
+        "total": 4.45
+      },
+      "scoreReason": "Simon Willison 为高权重信息源额外+0.3，本地 LLM 推理加速硬件新品（应用相关性4分），内容价值高为新产品首发（4分），值得短期关注评测（3分）。"
+    },
+    {
+      "title": "What Boris Cherny Learned From Building Claude Code",
+      "titleZh": "Boris Cherny 构建 Claude Code 的心得体会",
+      "link": "",
+      "source": "Y Combinator",
+      "categoryId": "yc",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Y Combinator 发布 Claude Code 核心构建者 Boris Cherny 的访谈，分享开发 AI 编程助手过程中的一手设计洞察。内容涵盖 Claude Code 的架构决策、用户体验取舍以及未来规划，是了解这一核心工具设计思路的绝佳资料。对日常使用 Claude Code 的开发者价值极高。",
+      "isSmartPick": true,
+      "smartPickRank": 2,
+      "scores": {
+        "relevance": 5,
+        "sourceQuality": 4,
+        "contentValue": 4,
+        "actionability": 4,
+        "total": 4.3
+      },
+      "scoreReason": "Claude Code 为用户核心工具链（应用相关性5分），Y Combinator 官方渠道发布（质量4分），构建者一手经验分享具高内容价值（4分），设计洞察可直接指导使用（4分）。"
+    },
+    {
+      "title": "AI Safety Meets the War Machine",
+      "titleZh": "AI 安全遭遇军工产业",
+      "link": "",
+      "source": "Wired AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "Wired 深度调查 Anthropic 坚守不允许 AI 用于自主武器或政府监控的底线，这一立场使其面临错失军方大型合同的风险。文章探讨 AI 安全理念与商业利益的根本冲突，揭示 Anthropic 在行业竞争中的差异化路径。对理解 AI 公司的安全承诺与商业压力之间的博弈具有重要参考价值。",
+      "isSmartPick": true,
+      "smartPickRank": 3,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 4,
+        "contentValue": 3,
+        "actionability": 2,
+        "total": 3.15
+      },
+      "scoreReason": "Wired 深度原创报道（质量4分），Anthropic 安全立场与商业冲突的行业洞察（内容价值3分），AI 相关但非核心开发工具（相关性3分），对开发者直接指导意义有限（2分）。"
+    },
+    {
+      "title": "OpenAI's first ChatGPT gadget could be a smart speaker with a camera",
+      "titleZh": "OpenAI 首款 ChatGPT 硬件或为带摄像头智能音箱",
+      "link": "",
+      "source": "The Verge AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "据 The Verge 报道，OpenAI 首款硬件产品将是带摄像头的智能音箱，预计售价 200-300 美元，具备物品识别和环境感知能力。这是 OpenAI 向消费硬件市场迈进的重要一步，将与 Amazon Echo 等产品直接竞争。",
+      "isSmartPick": true,
+      "smartPickRank": 4,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 3,
+        "contentValue": 3,
+        "actionability": 2,
+        "total": 3.15
+      },
+      "scoreReason": "OpenAI 硬件方向有 AI 应用参考价值（相关性3分），The Verge 独立媒体原创报道（质量3分），产品功能首次披露具一定内容价值（3分），距上市尚早（2分）。"
+    },
+    {
+      "title": "Adding TILs, releases, museums, tools and research",
+      "titleZh": "新增 TIL、版本发布、博物馆、工具与研究功能",
+      "link": "",
+      "source": "Simon Willison",
+      "categoryId": "ai-developers",
+      "categoryName": "知名 AI 个人开发者/研究者",
+      "pubDate": "2026-02-21",
+      "summary": "Simon Willison 为其个人网站新增 beats 功能模块，统一整合 TIL（今日所学）、版本发布、工具笔记和研究内容。这一架构升级让其 AI 工具探索的完整足迹更加系统化，是个人知识管理的有趣实践案例。",
+      "isSmartPick": true,
+      "smartPickRank": 5,
+      "scores": {
+        "relevance": 1,
+        "sourceQuality": 5,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.75
+      },
+      "scoreReason": "Simon Willison 为高权重信息源额外+0.3，但本次更新内容为个人网站功能迭代而非 AI 工具（应用相关性2分），内容价值较低（2分），对开发者可操作性有限（1分）。"
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super-pac",
+      "titleZh": "Anthropic 支持的团体力挺遭 AI 超级 PAC 攻击的候选人",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "Anthropic 支持的政治行动委员会为纽约国会候选人背书，该候选人主张 AI 开发者须强制披露安全协议，与另一亲 AI 超级 PAC 形成对立，展现 AI 公司介入政策博弈的新动向。",
+      "isSmartPick": true,
+      "smartPickRank": 6,
+      "scores": {
+        "relevance": 4,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.75
+      },
+      "scoreReason": "Anthropic 相关政治动向（相关性2分），TechCrunch 独立媒体原创报道（质量3分），AI 政策新闻有一定行业参考价值（2分），对开发者可操作性极低（1分）。"
+    },
+    {
+      "title": "Google just dropped Gemini 3.1... (WOAH)",
+      "titleZh": "Google 发布 Gemini 3.1（评测反应）",
+      "link": "",
+      "source": "Matthew Berman",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Matthew Berman 发布 YouTube 视频，宣称 Google 发布 Gemini 3.1 并进行初步能力展示。内容属于媒体对新模型的衍生评测，非官方发布渠道。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 2,
+        "total": 2.6
+      }
+    },
+    {
+      "title": "Gemini 3.1 Pro Simulations",
+      "titleZh": "Gemini 3.1 Pro 仿真能力演示",
+      "link": "",
+      "source": "Matthew Berman",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Matthew Berman 展示 Gemini 3.1 Pro 的仿真能力，呈现该模型在模拟场景中的表现。属于媒体对新模型的衍生评测内容，非官方信源。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 2,
+        "total": 2.6
+      }
+    },
+    {
+      "title": "Gemini 3.1 Pro Benchmarks",
+      "titleZh": "Gemini 3.1 Pro 基准测试结果",
+      "link": "",
+      "source": "Matthew Berman",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Matthew Berman 分享 Gemini 3.1 Pro 在多项基准测试中的成绩，与其他主流模型进行横向对比。属于媒体对新模型的衍生评测内容。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 2,
+        "total": 2.6
+      }
+    },
+    {
+      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks",
+      "titleZh": "Gemini 3.1 Pro 与 AI 基准测试的局限性",
+      "link": "",
+      "source": "AI Explained",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "AI Explained 借 Gemini 3.1 Pro 发布讨论 AI 基准测试的局限性，探讨当前评测体系是否能真实反映模型实际能力，对 AI 评估方法论提出质疑。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 2,
+        "total": 2.6
+      }
+    },
+    {
+      "title": "Dario Amodei Says His AI Predictions Have Been Mischaracterized",
+      "titleZh": "Dario Amodei 称其 AI 预测遭到误解",
+      "link": "",
+      "source": "Dwarkesh Patel (Clips)",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Anthropic CEO Dario Amodei 在 Dwarkesh Patel 访谈中澄清，其关于 AI 发展的多项预测被外界媒体断章取义或误解。他就近期行业争议作出了详细回应，并重申 Anthropic 在 AI 安全与能力平衡上的立场。",
+      "isSmartPick": true,
+      "smartPickRank": 7,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 3,
+        "actionability": 2,
+        "total": 2.55
+      },
+      "scoreReason": "Dario Amodei 为 Anthropic CEO 但内容来自播客剪辑非一手发布（质量3分），Anthropic 相关（相关性4分），澄清性访谈内容价值中等（3分），可操作性有限（2分）。"
+    },
+    {
+      "title": "Trump is making coal plants even dirtier as AI data centers suck up power",
+      "titleZh": "特朗普放宽燃煤限制以应对 AI 数据中心电力需求",
+      "link": "",
+      "source": "The Verge AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "特朗普政府废除燃煤电厂汞排放限制，正值 AI 数据中心建设拉动美国电力需求大幅增长。AI 算力扩张与能源政策之间的张力正在加剧，影响数据中心建设的合规成本与区域布局。",
+      "isSmartPick": true,
+      "smartPickRank": 8,
+      "scores": {
+        "relevance": 3,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.45
+      },
+      "scoreReason": "AI 基础设施能源话题（相关性3分），The Verge 独立媒体原创报道（质量3分），行业基础设施信息（2分），了解即可（1分）。"
+    },
+    {
+      "title": "The creator economy's ad revenue problem and India's AI ambitions",
+      "titleZh": "创作者经济广告收入困境与印度 AI 雄心",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "TechCrunch 播客讨论创作者经济广告收入困境，以及印度在 AI 领域的雄心计划。以 MrBeast 将业务重心转向巧克力产品为例，展现创作者变现模式的结构性转变。",
+      "isSmartPick": true,
+      "smartPickRank": 9,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      },
+      "scoreReason": ""
+    },
+    {
+      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+      "titleZh": "InScope 融资 1450 万美元解决财务报告痛点",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "财务报告自动化初创公司 InScope 完成 1450 万美元融资，由前 Flexport、Miro 等公司会计师联合创立，专注于解决企业财务报告流程的效率痛点。",
+      "isSmartPick": true,
+      "smartPickRank": 10,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      },
+      "scoreReason": ""
+    },
+    {
+      "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur's Gate",
+      "titleZh": "xAI 好消息：Grok 现已能回答博德之门相关问题",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "TechCrunch 报道 xAI 高级工程师被专项调配以提升 Grok 在游戏相关问题上的回答质量，引发业界对 AI 公司研发优先级取舍的广泛讨论。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      }
+    },
+    {
+      "title": "'Toy Story 5' takes aim at creepy AI toys: 'I'm always listening'",
+      "titleZh": "《玩具总动员5》炮轰 AI 玩具：「我一直在监听」",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "皮克斯新片《玩具总动员5》以 AI 玩具和成瘾性平板为主要反派，预告片呈现「我一直在监听」的反乌托邦场景，暗讽 AI 监控文化对儿童的影响，定档 6 月 19 日上映。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      }
+    },
+    {
+      "title": "AI's promise to indie filmmakers: Faster, cheaper, lonelier",
+      "titleZh": "AI 对独立电影人的承诺：更快、更便宜、更孤独",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-20",
+      "summary": "TechCrunch 分析 AI 工具对独立电影制作的双重影响：降低制作成本的同时，大量低质量 AI 内容涌入市场，威胁创意多样性和从业者职业生涯，独立导演面临机遇与生存危机并存的处境。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      }
+    },
+    {
+      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+      "titleZh": "Peak XV 融资 13 亿美元押注 AI，全球 VC 印度竞争升温",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-20",
+      "summary": "印度风投机构 Peak XV（前身红杉印度）完成 13 亿美元新基金募集，重点押注 AI、金融科技和跨境赛道，应对全球 VC 加速布局印度市场的竞争态势。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 2,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 2.15
+      }
+    },
+    {
+      "title": "Forward Future Live | 02.20.26 | Guests from IFS, Vantor, Pindrop Security and Runway",
+      "titleZh": "Forward Future Live 企业 AI 嘉宾访谈直播",
+      "link": "",
+      "source": "Matthew Berman",
+      "categoryId": "youtube",
+      "categoryName": "YouTube AI 频道",
+      "pubDate": "2026-02-21",
+      "summary": "Forward Future Live 节目邀请来自 IFS、Vantor、Pindrop Security 和 Runway 的企业 AI 产品方嘉宾，探讨 AI 在企业安全和自动化领域的最新应用实践。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 1,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 1.85
+      }
+    },
+    {
+      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+      "titleZh": "创作者为何放弃广告收入转向巧克力和金融科技收购",
+      "link": "",
+      "source": "TechCrunch AI",
+      "categoryId": "tech-blogs",
+      "categoryName": "新闻媒体",
+      "pubDate": "2026-02-21",
+      "summary": "TechCrunch 分析创作者经济从广告收入向多元商业模式转型的趋势，MrBeast 收购金融科技初创公司 Step 成为典型案例，反映头部创作者正在构建更稳健的商业生态。",
+      "isSmartPick": false,
+      "smartPickRank": null,
+      "scores": {
+        "relevance": 1,
+        "sourceQuality": 3,
+        "contentValue": 2,
+        "actionability": 1,
+        "total": 1.85
+      }
+    }
+  ]
+}

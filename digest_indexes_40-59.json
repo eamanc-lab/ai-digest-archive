@@ -1,0 +1,150 @@
+[
+  {
+    "index": 40,
+    "summary": "财务报告自动化初创公司 InScope 完成 1450 万美元融资，专注于自动化财务报表生成流程。",
+    "isCandidate": false
+  },
+  {
+    "index": 41,
+    "summary": "xAI 高级工程师被抽调专项解决 Grok 回答游戏《博德之门》相关问题的能力。",
+    "isCandidate": false
+  },
+  {
+    "index": 42,
+    "summary": "Anthropic 坚持不允许其 AI 用于自主武器或政府监控，可能错失重要军方合同。",
+    "isCandidate": false
+  },
+  {
+    "index": 43,
+    "summary": "Amazon AI 编程 Agent Kiro 在 2025 年 12 月导致 AWS 中国区服务中断长达 13 小时。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 4,
+      "sourceQuality": 4,
+      "contentValue": 3,
+      "actionability": 4,
+      "total": 3.75
+    },
+    "scoreReason": "AI Agent 编程工具的重大安全事故案例，对 Agent 框架开发者有警示价值。信息源为知名科技媒体，内容属于重大行业事件。"
+  },
+  {
+    "index": 44,
+    "summary": "OpenAI 首款硬件产品为带摄像头的智能音箱，预计售价 200-300 美元，具备物品识别和环境对话感知能力。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 3,
+      "sourceQuality": 3,
+      "contentValue": 4,
+      "actionability": 3,
+      "total": 3.25
+    },
+    "scoreReason": "OpenAI 官方硬件产品发布，属于新产品首发新闻，代表 AI 应用扩展方向，虽非核心编程工具但有战略意义。"
+  },
+  {
+    "index": 45,
+    "summary": "皮克斯新片《玩具总动员5》以 AI 玩具和成瘾性平板为主要反派，于 6 月 19 日上映。",
+    "isCandidate": false
+  },
+  {
+    "index": 46,
+    "summary": "AI 对独立电影制作的双重影响：降低制作成本，但大量低质量内容涌入市场，创意多样性面临威胁。",
+    "isCandidate": false
+  },
+  {
+    "index": 47,
+    "summary": "印度风险投资机构 Peak XV 完成 13 亿美元新一轮募资，重点押注 AI 和金融科技领域。",
+    "isCandidate": false
+  },
+  {
+    "index": 48,
+    "summary": "TechCrunch Disrupt 2026 超级早鸟票价将于 2 月 27 日截止，最高可节省 680 美元。",
+    "isCandidate": false
+  },
+  {
+    "index": 49,
+    "summary": "机器之心探讨从 AlphaGo 的蒙特卡洛树搜索到 DeepSeek R1 链式思维推理的技术演进脉络。",
+    "isCandidate": false
+  },
+  {
+    "index": 50,
+    "summary": "ICLR 2026 论文将视觉语言行动模型（VLA）引入生物实验室场景，构建新版图灵测试评估 AI 操作能力。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 2,
+      "sourceQuality": 2,
+      "contentValue": 3,
+      "actionability": 2,
+      "total": 2.25
+    },
+    "scoreReason": "ICLR 2026 学术论文，涉及 VLA 在科学实验中的应用研究，虽有创新意义但对应用开发者参考价值有限，可操作性较低。"
+  },
+  {
+    "index": 51,
+    "summary": "港中文大学与美团提出为 Agent 训练引入细粒度过程奖励机制，解决强化学习奖励信号稀疏的问题。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 4,
+      "sourceQuality": 2,
+      "contentValue": 3,
+      "actionability": 3,
+      "total": 3.1
+    },
+    "scoreReason": "Agent 训练算法的深度研究成果，对 Agent 框架开发者有实践参考价值，展示了强化学习的优化方向。"
+  },
+  {
+    "index": 52,
+    "summary": "Amazon AI 编程机器人 Kiro 导致 AWS 服务中断 13 小时，揭示 AI Agent 自主部署的潜在风险。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 4,
+      "sourceQuality": 4,
+      "contentValue": 3,
+      "actionability": 4,
+      "total": 3.75
+    },
+    "scoreReason": "Amazon Kiro 事故的详细技术分析报道，揭示 AI Agent 自主部署的风险与教训，对开发者有重要警示参考价值。"
+  },
+  {
+    "index": 53,
+    "summary": "OpenAI 数据显示印度 ChatGPT 用户中 18-24 岁群体贡献约 50% 消息量，30 岁以下占比高达 80%。",
+    "isCandidate": false
+  },
+  {
+    "index": 54,
+    "summary": "众智科技 FlagOS 系统完成对千问 Qwen3.5 397B MoE 模型多芯并行版本的适配与发布。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 3,
+      "sourceQuality": 2,
+      "contentValue": 3,
+      "actionability": 4,
+      "total": 2.9
+    },
+    "scoreReason": "国产大模型部署系统更新，支持超大规模 MoE 模型多芯并行执行，对本地 LLM 部署开发者有直接实践价值且可立即尝试。"
+  },
+  {
+    "index": 55,
+    "summary": "微软删除了一篇指导用户用盗版《哈利·波特》书籍训练 LLM 的博文，引发版权与 AI 培训的讨论。",
+    "isCandidate": false
+  },
+  {
+    "index": 56,
+    "summary": "Wired 探讨将 AI 数据中心迁移至太空轨道的可行性，分析了散热和发射成本等技术挑战。",
+    "isCandidate": false
+  },
+  {
+    "index": 57,
+    "summary": "G42 与 Cerebras 合作，计划在印度部署 8 exaflops 算力基础设施，支持本土 AI 算力建设。",
+    "isCandidate": false
+  },
+  {
+    "index": 58,
+    "summary": "Presearch 推出 Doppelganger 搜索功能，通过面部相似度匹配帮助用户发现成人内容创作者。",
+    "isCandidate": false
+  },
+  {
+    "index": 59,
+    "summary": "谷歌发布 AlphaFold 4，性能全面超越上一代，但选择不再开源，引发学术界对工具开放性的讨论。",
+    "isCandidate": false
+  }
+]

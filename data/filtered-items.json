@@ -1,0 +1,206 @@
+[
+  {
+    "index": 20,
+    "title": "Adding TILs, releases, museums, tools and research",
+    "source": "Simon Willison",
+    "date": "2026-02-21",
+    "category": "知名 AI 个人开发者/研究者",
+    "summary": "Simon Willison 为其个人博客新增 beats 功能，统一整合 TIL、版本发布、工具和研究等多类内容展示。",
+    "isCandidate": false
+  },
+  {
+    "index": 21,
+    "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+    "source": "Simon Willison",
+    "date": "2026-02-21",
+    "category": "知名 AI 个人开发者/研究者",
+    "summary": "Taalas 发布定制芯片产品可以 17,000 tokens/秒的速度运行 Llama 3.1 8B 模型，为本地 LLM 推理提供高性能硬件加速方案。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 4,
+      "sourceQuality": 3,
+      "contentValue": 4,
+      "actionability": 3,
+      "total": 3.6
+    },
+    "scoreReason": "本地 LLM 推理是核心应用场景（4分），来自知名开发者二次传播（3分），硬件新品首发具备产品价值（4分），可监测其在国内推理市场的影响（3分）。"
+  },
+  {
+    "index": 22,
+    "title": "Dario Amodei Says His AI Predictions Have Been Mischaracterized",
+    "source": "Dwarkesh Patel (Clips)",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Anthropic CEO Dario Amodei 在访谈中澄清其 AI 预测被外界误解，就近期行业争议进行了详细回应。",
+    "isCandidate": false
+  },
+  {
+    "index": 23,
+    "title": "What Boris Cherny Learned From Building Claude Code",
+    "source": "Y Combinator",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Y Combinator 发布 Claude Code 构建者 Boris Cherny 的访谈短片，分享开发过程中的设计决策与技术洞察。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 5,
+      "sourceQuality": 4,
+      "contentValue": 4,
+      "actionability": 4,
+      "total": 4.4
+    },
+    "scoreReason": "Claude Code 核心工具链（5分），Y Combinator 官方发布（4分），产品构建者的一手经验分享（4分），可直接学习设计哲学与实现细节（4分）。"
+  },
+  {
+    "index": 24,
+    "title": "Forward Future Live | 02.20.26 | Guests from IFS, Vantor, Pindrop Security and Runway",
+    "source": "Matthew Berman",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Forward Future Live 节目邀请多家企业 AI 产品方代表，探讨 AI 在企业应用中的最新实践。",
+    "isCandidate": false
+  },
+  {
+    "index": 25,
+    "title": "Google just dropped Gemini 3.1... (WOAH)",
+    "source": "Matthew Berman",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Matthew Berman 发布视频宣称 Google 发布 Gemini 3.1，进行初步展示，属于媒体对新模型的衍生评测内容。",
+    "isCandidate": false
+  },
+  {
+    "index": 26,
+    "title": "Gemini 3.1 Pro Simulations",
+    "source": "Matthew Berman",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Matthew Berman 展示 Gemini 3.1 Pro 的仿真演示，属于媒体对新模型能力的衍生评测内容。",
+    "isCandidate": false
+  },
+  {
+    "index": 27,
+    "title": "Gemini 3.1 Pro Benchmarks",
+    "source": "Matthew Berman",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "Matthew Berman 分享 Gemini 3.1 Pro 基准测试结果，属于媒体对新模型性能的衍生评测内容。",
+    "isCandidate": false
+  },
+  {
+    "index": 28,
+    "title": "Gemini 3.1 Pro and the Downfall of Benchmarks",
+    "source": "AI Explained",
+    "date": "2026-02-21",
+    "category": "YouTube AI 频道",
+    "summary": "AI Explained 发布长视频讨论 Gemini 3.1 Pro 发布及 AI 基准测试的局限性，属于衍生评论内容。",
+    "isCandidate": false
+  },
+  {
+    "index": 29,
+    "title": "The creator economy's ad revenue problem and India's AI ambitions",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "创作者经济正转向多元商业模式，以 MrBeast 为例其巧克力业务收入已超过媒体主业。",
+    "isCandidate": false
+  },
+  {
+    "index": 30,
+    "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "TechCrunch 播客讨论创作者经济从广告收入转向多元化的趋势，MrBeast 收购金融科技初创公司 Step 成为典型案例。",
+    "isCandidate": false
+  },
+  {
+    "index": 31,
+    "title": "Anthropic-funded group backs candidate attacked by rival AI super-pac",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "Anthropic 支持的政治团体力挺纽约国会候选人，后者主张 AI 开发者须披露安全协议，与另一 AI 超级 PAC 对立。",
+    "isCandidate": false
+  },
+  {
+    "index": 32,
+    "title": "Trump is making coal plants even dirtier as AI data centers suck up power",
+    "source": "The Verge AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "特朗普政府废除燃煤电厂汞排放限制，正值 AI 数据中心建设带动美国电力需求增长。",
+    "isCandidate": false
+  },
+  {
+    "index": 33,
+    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "财务报告自动化初创公司 InScope 完成 1450 万美元融资，由前 Flexport、Miro 等公司会计师创立。",
+    "isCandidate": false
+  },
+  {
+    "index": 34,
+    "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur's Gate",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "xAI 高级工程师被抽调专项解决 Grok 回答游戏相关问题的能力，引发业界对 AI 优先级的讨论。",
+    "isCandidate": false
+  },
+  {
+    "index": 35,
+    "title": "AI Safety Meets the War Machine",
+    "source": "Wired AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "Wired 深度报道 Anthropic 坚持不允许 AI 用于自主武器或政府监控，这一底线可能导致其错失军方合同。",
+    "isCandidate": true,
+    "scores": {
+      "relevance": 3,
+      "sourceQuality": 4,
+      "contentValue": 3,
+      "actionability": 2,
+      "total": 3.1
+    },
+    "scoreReason": "Anthropic 背景相关但非核心应用（3分），Wired 深度报道质量高（4分），AI 安全与商业冲突的行业洞察（3分），对开发者的指导意义有限（2分）。"
+  },
+  {
+    "index": 36,
+    "title": "OpenAI's first ChatGPT gadget could be a smart speaker with a camera",
+    "source": "The Verge AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "OpenAI 首款硬件产品将是带摄像头的智能音箱，预计售价 200-300 美元，具备物品识别和环保对话感知能力。",
+    "isCandidate": false
+  },
+  {
+    "index": 37,
+    "title": "'Toy Story 5' takes aim at creepy AI toys: 'I'm always listening'",
+    "source": "TechCrunch AI",
+    "date": "2026-02-21",
+    "category": "新闻媒体",
+    "summary": "皮克斯新片《玩具总动员5》以 AI 玩具和成瘾性平板为主要反派，将于 6 月 19 日上映，预告片暗讽 AI 监控与科技对儿童的影响。",
+    "isCandidate": false
+  },
+  {
+    "index": 38,
+    "title": "AI's promise to indie filmmakers: Faster, cheaper, lonelier",
+    "source": "TechCrunch AI",
+    "date": "2026-02-20",
+    "category": "新闻媒体",
+    "summary": "TechCrunch 分析 AI 对独立电影制作的双重影响：降低成本同时大量低质量内容涌入，威胁创意多样性和从业者职业生涯。",
+    "isCandidate": false
+  },
+  {
+    "index": 39,
+    "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+    "source": "TechCrunch AI",
+    "date": "2026-02-20",
+    "category": "新闻媒体",
+    "summary": "印度风投机构 Peak XV 完成 13 亿美元新融资，重点押注 AI、金融科技和跨境领域，应对全球竞争。",
+    "isCandidate": false
+  }
+]
